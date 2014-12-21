@@ -5,7 +5,7 @@ Show last logins ( Today, Yesterday) and still opened ssh connections
 
 
 Based on the work of IQAndreas : [bash-last-login](https://github.com/IQAndreas/bash-last-login). It now also shows today and yesterday's logins.
-It uses the since file from IQAndreas with modifications.
+It uses the [since](https://github.com/IQAndreas/bash-last-login/blob/master/since) without modifications.
 
 == USAGE ==
 
