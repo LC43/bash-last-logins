@@ -17,7 +17,7 @@ It uses the [since](https://github.com/IQAndreas/bash-last-login/blob/master/sin
   * example: copy the file to /usr/local/bin/since
 
 # OUTPUT
-![Today with active connections shown, none yesterday](http://43.lc:8080/files/pub/bash-last-logins-screenshot.png)
+![Today with active connections shown, none yesterday](https://raw.githubusercontent.com/LC43/bash-last-logins/master/bash-last-logins-screenshot.png)
 
 
 # LICENSE
