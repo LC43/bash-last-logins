@@ -10,11 +10,11 @@ It uses the since file from IQAndreas with modifications.
 == USAGE ==
 
 1. source the file bash-last-logins
-edit your .bashrc or .bash_profile, and add the line
-``` source /path/to/file/ ```
+    * edit your .bashrc or .bash_profile, and add the line 
+    * ``` source /path/to/file/ ```
 2. Make since.bash excutable and copy it to your PATH
-chmod +x since.bash
-example: copy the file to /usr/local/bin/since
+   * chmod +x since.bash
+   * example: copy the file to /usr/local/bin/since
 
 
 
