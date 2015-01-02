@@ -62,7 +62,7 @@ if [ ${#today_sessions[@]} -gt 0 ]; then
 
 		else
 			ECHO_PERIOD="from $HOUR to $EHOUR";
-			ECHO_DURATION=" for "
+			ECHO_DURATION="for"
 			SIMPLEDURATION=$(sed  's#(\(.*\):\(.*\))#\1h\2#g' <<< $DURATION )
 		fi
 		printf "${BOLD}\e[38;5;205m%-10s${RESET} at \e[38;5;38m%s${RESET} logged in %s \e[38;5;195m%s${RESET}, $ECHO_PERIOD\n" "$USER" "$HOST" "$ECHO_DURATION" "${SIMPLEDURATION}"
