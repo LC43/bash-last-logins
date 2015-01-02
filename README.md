@@ -11,7 +11,7 @@ It uses the [since](https://github.com/IQAndreas/bash-last-login/blob/master/sin
 
 1. source the file bash-last-logins
   * edit your .bashrc or .bash_profile, 
-  * and add the line ``` source /path/to/file/ ```
+  * and add the line ``` source /path/to/bash-last-logins ```
 2. Make since.bash excutable and copy it to your PATH
   * ``` chmod +x since.bash ```
   * example: copy the file to /usr/local/bin/since
@@ -26,7 +26,7 @@ IQAndreas didn't have any license, so i pick this one, if this is ok.
 
 bash-last-logins
 
-Copyright (C) 2014  LC43WebStudio
+Copyright (C) 2014  43LCWebStudio
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
